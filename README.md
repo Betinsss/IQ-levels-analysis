@@ -15,6 +15,10 @@ patterns in different regions and see if temperature affects IQ. In short, throu
 examining these data points, we aim to uncover insights into the socio-economic
 and environmental conditions of different countries.
 
+## Contributors’ GitHub Profile Links:
 
+- [@Betinsss](https://github.com/Betinsss))
+- [@renalynpino](https://github.com/yourusername)
+- 
 
 
