@@ -18,7 +18,6 @@ and environmental conditions of different countries.
 ## Contributors’ GitHub Profile Links:
 
 - [@Betinsss](https://github.com/Betinsss))
-- [@renalynpino](https://github.com/yourusername)
-- 
+- [@renalynpino] -(https://github.com/yourusername)- 
 
 
